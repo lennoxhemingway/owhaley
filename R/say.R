@@ -1,4 +1,4 @@
-#' Title
+#' Whale Function
 #'
 #' @param what
 #'
